@@ -1,0 +1,47 @@
+_repo: Satires-And-Profanities_39119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+  - agent_name: Thomson, James
+    alias: Thompson, James
+    birthdate: 1834
+    deathdate: 1882
+    gutenberg_agent_id: '569'
+    url: http://www.gutenberg.org/2009/agents/569
+    wikipedia: http://en.wikipedia.org/wiki/James_Thomson_%28B.V.%29
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'PR'
+- !lcc 'BL'
+- !lcsh 'Rationalism'
+tableOfContents: 'Preface -- The Devil in the Church of England -- Religion in the
+  Rocky Mountains -- The story of a famous old Jewish farm -- Christmas eve in the
+  upper circles -- A word on blasphemy -- Heine on an illustrious exile, with something
+  about whales -- The Daily News -- Jesus: as God; as a man -- The one thing needful
+  -- The Swinburne controversy -- Great Christ is dead -- Resurrection and ascension
+  of Jesus -- Some Muslim laws and beliefs -- The Christian World and the Secularist
+  -- The Athanasian creed -- Our obstructions -- Mr. Kingsley''s convertites -- The
+  Primate on the church and the world -- Spiritism in the police court -- A commission
+  of inquiry on royalty -- Draft -- A Bible lesson on monarchy -- Principal Tulloch
+  on personal immortality -- The estabished church.'
+title: Satires and Profanities
+url: http://www.gutenberg.org/ebooks/39119
